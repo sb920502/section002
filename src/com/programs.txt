@@ -1,0 +1,3 @@
+program001 --> Starting a thread by extending Thread class
+program002 --> Starting a thread by implementing Runnable class
+program003 --> Running a thread using anonymous class
